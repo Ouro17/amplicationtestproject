@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.2",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "hf53cnow",
+    "id": "cl17raldp1618501s60bvrw40u",
+    "url": "https://app.amplication.com/cl17raldp1618501s60bvrw40u",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "mytestbd",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl17raldp1618501s60bvrw40u",
+      "authProvider": "Jwt"
+    }
+  }
+}
